@@ -1,59 +1,92 @@
-<script>
-	import Counter from './Counter.svelte';
-	import welcome from '$lib/images/svelte-welcome.webp';
-	import welcome_fallback from '$lib/images/svelte-welcome.png';
-</script>
 
 <svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+  <title>Home Page | Karnataka 7th Pay Calculator, Karnataka Govt Orders, Pay Commission, 7th Pay, Pension , salary fixation,Family Pension </title>
 </svelte:head>
+<main>
+  <div class="row row-cards">
+    <div class="col">
+      
+      <div class="card  mt-2">
+        <div class="card-body">
+          <h1 class=""><a href="/DAOrders">ರಾಜ್ಯ ತುಟ್ಟಿ ಭತ್ಯೆ ಆದೇಶಗಳು</a></h1>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card  mt-2">
+        <div class="card-body">
+          <h1 class=""><a href="/DAOrders">ಕೇಂದ್ರ/ಯು.ಜಿ.ಸಿ ತುಟ್ಟಿ ಭತ್ಯೆ ಆದೇಶಗಳು</a></h1>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row row-cards">
+    <div class="col-lg-4 col-md-4">
+      
+      <div class="card  mt-2">
+        <div class="card-body">
+          <h1 class=""><a href="/">DA and Arrears Calculator</a></h1>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-4">
+      
+      <div class="card  mt-2">
+        <div class="card-body">
+          <h1 class=""><a href="/">Income Tax/TDS Calculator</a></h1>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-4">
+      <div class="card  mt-2">
+        <div class="card-body">
+          <h1 class=""><a href="/">Arrears Calculator</a></h1>
+        </div>
+      </div>
 
-<section>
-	<h1>
-		<span class="welcome">
-			<picture>
-				<source srcset={welcome} type="image/webp" />
-				<img src={welcome_fallback} alt="Welcome" />
-			</picture>
-		</span>
+    </div>
+  </div>
+  <div class="row row-cards">
+    <div class="col-lg-6 col-md-6">
+      <div class="card  mt-2">
+        <div class="card-body">
+          <h1 class=""><a href="/NormalPensionCalculator"> Pension/Family Pension Calculator After Aug-2024 </a></h1>
+        </div>
+      </div>
 
-		to your new<br />SvelteKit app
-	</h1>
+    </div>
+    <div class="col-lg-6 col-md-6">
+      <div class="card mt-2">
+          <div class="card-body my-auto">
+            <h1 class=""><a href="/7thPaySalaryCalculation"> 7th PAY Salary Calculator </a></h1>
+          </div>
+      </div>
 
-	<h2>
-		try editing <strong>src/routes/+page.svelte</strong>
-	</h2>
+    </div>
+  </div>
+  
+    <div class="row row-cards">
+      <div class="col-lg-6 col-md-6">
+        <div class="card  mt-2">
+            <div class="card-body">
+              <h1 class=""><a href="/7thPayPensionCalculation"> 7th PAY PENSION CALCULATOR  </a></h1>
+              
+            </div>
+        </div>
 
-	<Counter />
-</section>
+      </div>
+      <div class="col-lg-6 col-md-6">
 
-<style>
-	section {
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		align-items: center;
-		flex: 0.6;
-	}
+        <div class="card  mt-2">
+            <div class="card-body">
+              <h1 class=""><a href="/7thPayFamilyPensionCalculation"> 7th PAY FAMILY PENSION CALCULATOR </a></h1>
+                
+            </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
 
-	h1 {
-		width: 100%;
-	}
-
-	.welcome {
-		display: block;
-		position: relative;
-		width: 100%;
-		height: 0;
-		padding: 0 0 calc(100% * 495 / 2048) 0;
-	}
-
-	.welcome img {
-		position: absolute;
-		width: 100%;
-		height: 100%;
-		top: 0;
-		display: block;
-	}
-</style>
+</main>
