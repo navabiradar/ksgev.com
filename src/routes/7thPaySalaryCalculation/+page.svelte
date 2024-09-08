@@ -1,5 +1,5 @@
 <script>
-	import printJS from 'print-js';
+
 
 	let da = 31;
 	let fixationRate = 27.5;
@@ -385,14 +385,7 @@
 			sevenPay2022.basicPay + sevenPay2022.da + sevenPay2022.hra + sevenPay2022.medAll;
 	}
 
-	function clientPrint() {
-		printJS({
-			printable: 'printJS-form',
-			type: 'html',
-			header: 'ಕರ್ನಾಟಕ ರಾಜ್ಯ ಸರಕಾರಿ ನೌಕರರ 7ನೇ ವೇತನ ಆಯೋದ ವರದಿಯಂತೆ'
-		});
-	}
-
+	
 
 </script>
 
@@ -405,9 +398,9 @@
 <main>
 	<div class="row row-card">
 		<div class="col-md-4">
-			<div class="card h-100">
-				<div class="card-header">
-					<h3 class="card-title">sixth Pay Details/6ನೇ ವೇತನ ಮಾಹಿತಿ</h3>
+			<div class="card h-100 rounded-0 border-primary">
+				<div class="card-header rounded-0 bg-blue text-white">
+					<h3 class="card-title">SIXTH Pay Details/6ನೇ ವೇತನ ಮಾಹಿತಿ</h3>
 				</div>
 				<div class="card-body">
 					<div class="mb-3">
@@ -475,16 +468,16 @@
 						
 					</div>
 				</div>
-				<div class="card-footer text-end">
+				<div class="card-footer text-end border-primary">
 					<button type="submit" class="btn btn-danger">Clear</button>
 					<button type="submit" class="btn btn-primary" on:click={calculateSalary}>Submit</button>
 				</div>
 			</div>
 		</div>
 		<div class="col-md-8">
-			<div class="card" id="result-print">
-				<div class="card-header">
-					<h3 class="card-title">seventh Pay Details/7ನೇ ವೇತನ ಆಯೋಗದ ವರದಿಯಂತೆ</h3>
+			<div class="card rounded-0 border-primary" id="result-print">
+				<div class="card-header rounded-0 bg-blue   text-white">
+					<h3 class="card-title">Seventh Pay Details/7ನೇ ವೇತನ ಆಯೋಗದ ವರದಿಯಂತೆ</h3>
 				</div>
 				<div class="card-body" id="printJS-form">
 					<div class="table-responsive">
@@ -677,8 +670,8 @@
 						</div>
 					</div>
 				</div>
-				<div class="card-footer text-end">
-					<button  class="btn btn-facebook w-20" on:click={clientPrint}>
+				<div class="card-footer text-end border-primary">
+					<button  class="btn btn-facebook w-20" >
 						<!-- Download SVG icon from http://tabler-icons.io/i/brand-facebook -->
 						<svg
 							xmlns="http://www.w3.org/2000/svg"

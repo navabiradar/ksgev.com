@@ -193,9 +193,9 @@ function calculatePension() {
 <main>
 	<div class="row row-card">
 		<div class="col-md-4">
-			<div class="card h-100">
-				<div class="card-header">
-					<h3 class="card-title">Pension Calculator/ನಿವೃತ್ತಿ ಪಿಂಚಣಿ ಲೆಕ್ಕ </h3>
+			<div class="card h-100 border-primary rounded-0">
+				<div class="card-header bg-blue rounded-0">
+					<h3 class="card-title text-white">Pension Calculator/ನಿವೃತ್ತಿ ಪಿಂಚಣಿ ಲೆಕ್ಕ </h3>
 				</div>
 				<div class="card-body">
 					<div class="mb-3">
@@ -279,16 +279,16 @@ function calculatePension() {
 					
 					
 				</div>
-				<div class="card-footer text-end">
+				<div class="card-footer text-end border-primary">
 					<button type="submit" class="btn btn-danger">Clear</button>
 					<button type="submit" class="btn btn-primary" on:click={calculatePension}>Submit</button>
 				</div>
 			</div>
 		</div>
 		<div class="col-md-8">
-			<div class="card" id="result-print">
-				<div class="card-header">
-					<h3 class="card-title">Pensionary Benefit Details / ನಿವೃತ್ತಿ ಸೌಲಭ್ಯಗಳು </h3>
+			<div class="card border-primary rounded-0 h-100" id="result-print">
+				<div class="card-header rounded-0 bg-blue">
+					<h3 class="card-title text-white">Pensionary Benefit Details / ನಿವೃತ್ತಿ ಸೌಲಭ್ಯಗಳು </h3>
 				</div>
 				<div class="card-body" id="printJS-form">
 					<div class="row">
@@ -321,8 +321,8 @@ function calculatePension() {
 						</div>
 						
 					</div>
-					<div class="hr-text">
-						<span>Details of Pensionary Benefits </span>
+					<div class="hr-text ">
+						<span class="text-blue">Details of Pensionary Benefits </span>
 					</div>
 					<div class="row">
 						<div class="col">
@@ -376,7 +376,7 @@ function calculatePension() {
 			
 					
 				
-				<div class="card-footer text-end">
+				<div class="card-footer text-end border-primary">
 					<button  class="btn btn-facebook w-20" >
 						<!-- Download SVG icon from http://tabler-icons.io/i/brand-facebook -->
 						<svg
