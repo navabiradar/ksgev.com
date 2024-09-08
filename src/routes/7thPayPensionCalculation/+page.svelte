@@ -40,6 +40,7 @@
 </svelte:head>
   
   <main>
+    <div class="container-xl">
       <div class="row row-card">
       <div class="col-md-4">
           <div class="card  h-100 rounded-0 border-primary">
@@ -134,4 +135,5 @@
           </div>
       </div>
       </div>
+    </div>
   </main>

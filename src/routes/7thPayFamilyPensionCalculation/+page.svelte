@@ -38,6 +38,7 @@
   </svelte:head>
   
   <main>
+    <div class="container-xl">
       <div class="row row-card">
       <div class="col-md-4">
           <div class="card rounded-0 border-primary">
@@ -101,7 +102,7 @@
                   </tbody>
                 </table>
               </div>
-              <div class="table-responsive">
+              <div class="table-responsive pt-1">
                 <table
                       class="table table-vcenter table-bordered table-wrap">
                   <thead>
@@ -132,4 +133,5 @@
           </div>
       </div>
       </div>
+    </div>
   </main>
