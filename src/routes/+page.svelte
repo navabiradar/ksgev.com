@@ -118,7 +118,7 @@
 				</div>
 			</div>
       <div class="col-md-6 col-lg-3 p-1">
-				<div class="card h-100 border-primary rounded-0">
+				<div class="card h-100 border-primary rounded-0 ">
 					<div class="card-header text-center rounded-0 bg-blue">
 						<h2 class=" text-uppercase text-white">HRMS</h2>
 					</div>

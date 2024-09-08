@@ -40,9 +40,9 @@
   <main>
       <div class="row row-card">
       <div class="col-md-4">
-          <div class="card">
-            <div class="card-header">
-              <h3 class="card-title">6th Pay  Details/6ನೇ ವೇತನ ಮಾಹಿತಿ</h3>
+          <div class="card rounded-0 border-primary">
+            <div class="card-header bg-blue rounded-0">
+              <h3 class="card-title text-white">6th Pay  Details/6ನೇ ವೇತನ ಮಾಹಿತಿ</h3>
             </div>
             <div class="card-body">
               
@@ -64,16 +64,16 @@
               </div>
               
             </div>
-            <div class="card-footer text-end">
+            <div class="card-footer border-primary text-end">
                 <button type="submit" class="btn btn-danger">Clear</button>
                 <button type="submit" class="btn btn-primary" on:click={calculateSalary}>Submit</button>
             </div>
           </div>
       </div>
       <div class="col-md-8 h-100">
-          <div class="card">
-            <div class="card-header">
-              <h3 class="card-title">7th Pay Details/7ನೇ ವೇತನ ಆಯೋಗದ ವರದಿಯಂತೆ</h3>
+          <div class="card h-100 rounded-0  border-primary">
+            <div class="card-header rounded-0 bg-blue">
+              <h3 class="card-title text-white">7th Pay Details/7ನೇ ವೇತನ ಆಯೋಗದ ವರದಿಯಂತೆ</h3>
             </div>
             <div class="card-body">
               
