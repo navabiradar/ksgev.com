@@ -39,10 +39,10 @@
 					</div>
 					<div class="card-body h-100">
             <ul>
-							<a href=""><li><h3>7ನೇ ವೇತನ ಆಯೋಗದ ಆದೇಶಗಳು </h3></li></a>
-							<a href=""><li><h3>6ನೇ ವೇತನ ಆಯೋಗದ ಆದೇಶಗಳು </h3></li></a>
-              <a href=""><li><h3>5ನೇ ವೇತನ ಆಯೋಗದ ಆದೇಶಗಳು </h3></li></a>
-              <a href=""><li><h3>ಹಳೆಯ ವೇತನ ಆಯೋಗದ ಆದೇಶಗಳು </h3></li></a>
+							<a href="/PayCommissionOrders/7thPayOrders"><li><h3>7ನೇ ವೇತನ ಆಯೋಗದ ಆದೇಶಗಳು </h3></li></a>
+							<a href="/PayCommissionOrders/6thPayOrders"><li><h3>6ನೇ ವೇತನ ಆಯೋಗದ ಆದೇಶಗಳು </h3></li></a>
+              				<a href="/PayCommissionOrders/5thPayOrders"><li><h3>5ನೇ ವೇತನ ಆಯೋಗದ ಆದೇಶಗಳು </h3></li></a>
+              				<a href="/PayCommissionOrders/OldPayOrders"><li><h3>ಹಳೆಯ ವೇತನ ಆಯೋಗದ ಆದೇಶಗಳು </h3></li></a>
 							
 							
 						</ul>
