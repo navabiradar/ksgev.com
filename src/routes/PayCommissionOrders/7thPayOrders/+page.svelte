@@ -37,7 +37,7 @@
                     <p>ವೈದ್ಯಕೀಯ ಭತ್ಯೆ ದರಗಳ ಪರಿಷ್ಕರಣೆ</p>
                     </td>
                     <td>0.18</td>
-                    <td><a href="https://finance.karnataka.gov.in/storage\pdf-files/FD21SRP2024(I)-Dtd-27-08-2024(Kan).pdf" target="_blank" rel="noopener noreferrer">ವೀಕ್ಷಿಸಿ</a></td>
+                    <td><a href="https://finance.karnataka.gov.in/storage/pdf-files/FD21SRP2024(I)-Dtd-27-08-2024(Kan).pdf" target="_blank" rel="noopener noreferrer">ವೀಕ್ಷಿಸಿ</a></td>
                     </tr>
                     <tr>
                     <td>ಆಇ 21 ಎಸ್‌ ಆರ್‌ ಪಿ 2024</td>
@@ -46,7 +46,7 @@
                     <p>ವೇತನ ಶ್ರೇಣಿಗಳ ಪರಿಷ್ಕರಣೆ ಮತ್ತು ಇತರೆ ಸಂಬಂಧಿತ ಆದೇಶಗಳು</p>
                     </td>
                     <td>12.6</td>
-                    <td><a href="https://finance.karnataka.gov.in/storage\pdf-files/FD21SRP2024dt23-AUG-2024_K.pdf" target="_blank" rel="noopener noreferrer">ವೀಕ್ಷಿಸಿ</a></td>
+                    <td><a href="https://finance.karnataka.gov.in/storage/pdf-files/FD21SRP2024dt23-AUG-2024_K.pdf" target="_blank" rel="noopener noreferrer">ವೀಕ್ಷಿಸಿ</a></td>
                     </tr>
                     <tr>
                     <td>ಆಇ 21 ಎಸ್‌ ಆರ್‌ ಪಿ 2024</td>
@@ -55,7 +55,7 @@
                     <p>ಕರ್ನಾಟಕ ನಾಗರೀಕ ಸೇವಾ (ಪರಿಷ್ಕೃತ ವೇತನ) ನಿಯಮಗಳು, 2024-ಅಧಿಸೂಚನೆ.</p>
                     </td>
                     <td>3.63</td>
-                    <td><a href="https://finance.karnataka.gov.in/storage\pdf-files/FD21SRP2024-Dtd-17-08-2024(Kan).pdf" target="_blank" rel="noopener noreferrer">ವೀಕ್ಷಿಸಿ</a></td>
+                    <td><a href="https://finance.karnataka.gov.in/storage/pdf-files/FD21SRP2024-Dtd-17-08-2024(Kan).pdf" target="_blank" rel="noopener noreferrer">ವೀಕ್ಷಿಸಿ</a></td>
                     </tr>
                     <tr>
                     <td>ಆಇ 21 ಎಸ್‌ ಆರ್‌ ಪಿ 2024</td>
@@ -64,7 +64,7 @@
                     <p>ಏಳನೇ ರಾಜ್ಯ ವೇತನ ಆಯೋಗದ ಶಿಫಾರಸ್ಸುಗಳನ್ನು ಅನುಷ್ಠಾನಗೊಳಿಸುವ ಕುರಿತು.</p>
                     </td>
                     <td>2.74</td>
-                    <td><a href="https://finance.karnataka.gov.in/storage\pdf-files/FD21SRP2024-22-7-2024-KANcorrected.pdf" target="_blank" rel="noopener noreferrer">ವೀಕ್ಷಿಸಿ</a></td>
+                    <td><a href="https://finance.karnataka.gov.in/storage/pdf-files/FD21SRP2024-22-7-2024-KANcorrected.pdf" target="_blank" rel="noopener noreferrer">ವೀಕ್ಷಿಸಿ</a></td>
                     </tr>
                     <tr>
                     <td>ಆಇ 45 ಎಸ್.ಆರ್.ಪಿ 2022</td>
@@ -75,7 +75,7 @@
                     <p>7ನೇ ರಾಜ್ಯ ವೇತನ ಆಯೋಗದ ಅವಧಿಯನ್ನು ವಿಸ್ತರಿಸುವ ಬಗ್ಗೆ.</p>
                     </td>
                     <td>1.75</td>
-                    <td><a href="https://finance.karnataka.gov.in/storage\pdf-files/FD45SRP202-GovtOrderDtd-06-11-2023.pdf" target="_blank" rel="noopener noreferrer">ವೀಕ್ಷಿಸಿ</a></td>
+                    <td><a href="https://finance.karnataka.gov.in/storage/pdf-files/FD45SRP202-GovtOrderDtd-06-11-2023.pdf" target="_blank" rel="noopener noreferrer">ವೀಕ್ಷಿಸಿ</a></td>
                     </tr>
                     <tr>
                     <td>ಆಇ 45 ಎಸ್‌ ಆರ್‌ ಪಿ 2022</td>
@@ -84,7 +84,7 @@
                     <p>7ನೇ ರಾಜ್ಯ ವೇತನ ಆಯೋಗದ ಅವಧಿಯನ್ನು ವಿಸ್ತರಿಸುವ ಬಗ್ಗೆ.</p>
                     </td>
                     <td>0.60</td>
-                    <td><a href="https://finance.karnataka.gov.in/storage\pdf-files/FD45SRP2022-Dtd-15-05-2023.pdf" target="_blank" rel="noopener noreferrer">ವೀಕ್ಷಿಸಿ</a></td>
+                    <td><a href="https://finance.karnataka.gov.in/storage/pdf-files/FD45SRP2022-Dtd-15-05-2023.pdf" target="_blank" rel="noopener noreferrer">ವೀಕ್ಷಿಸಿ</a></td>
                     </tr>
                     <tr>
                     <td>ಆಇ 45 ಎಸ್ ಆರ್‌ ಪಿ 2022</td>
@@ -93,7 +93,7 @@
                     <p>7ನೇ ರಾಜ್ಯ ವೇತನ ಆಯೋಗದ ಪರಿಶೀಲನಾರ್ಹ ಅಂಶಗಳಿಗೆ ಸೇರ್ಪಡೆ ಮಾಡುವ ಕುರಿತು.</p>
                     </td>
                     <td>0.74</td>
-                    <td><a href="https://finance.karnataka.gov.in/storage\pdf-files/FD45SRP2022-Dtd-08-03-2023.pdf" target="_blank" rel="noopener noreferrer">ವೀಕ್ಷಿಸಿ</a></td>
+                    <td><a href="https://finance.karnataka.gov.in/storage/pdf-files/FD45SRP2022-Dtd-08-03-2023.pdf" target="_blank" rel="noopener noreferrer">ವೀಕ್ಷಿಸಿ</a></td>
                     </tr>
                     <tr>
                     <td>ಆಇ 07 ಎಸ್‌ ಆರ್‌ ಪಿ 2023</td>
@@ -104,7 +104,7 @@
                     <p>ರಾಜ್ಯ ಸರ್ಕಾರಿ ನೌಕರರಿಗೆ ತಾತ್ಕಾಲಿಕ ಪರಿಹಾರ ಮಂಜೂರಾತಿ</p>
                     </td>
                     <td>0.22</td>
-                    <td><a href="https://finance.karnataka.gov.in/storage\pdf-files/FD07SRP2023-Dtd-01-03-2023.pdf" target="_blank" rel="noopener noreferrer">ವೀಕ್ಷಿಸಿ</a></td>
+                    <td><a href="https://finance.karnataka.gov.in/storage/pdf-files/FD07SRP2023-Dtd-01-03-2023.pdf" target="_blank" rel="noopener noreferrer">ವೀಕ್ಷಿಸಿ</a></td>
                     </tr>
                     <tr>
                     <td>ಆಇ 45 ಎಸ್ ಆರ್ ಪಿ 2022</td>
