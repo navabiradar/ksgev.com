@@ -116,6 +116,7 @@
                     <td>26-10-1979</td>
                     <td>ಸರ್ಕಾರಿ ನೌಕರರಿಗೆ ಮುಂಗಡ ಹೆಚ್ಚಳ ಅಥವಾ ವಿಶೇಷ ಭತ್ಯೆ ಅಥವಾ ಅರ್ಹತಾ ವೇತನದ ರೂಪದಲ್ಲಿ ಪ್ರೋತ್ಸಾಹಧನ ನೀಡುವುದು - ಯೋಜನೆಯ ಸ್ಥಗಿತ</td>
                     <td>0.60</td>
+                    
                     <td><a href="https://finance.karnataka.gov.in/storage/pdf-files/52_fd53srp79(E).pdf" target="_blank" rel="noopener noreferrer">ವೀಕ್ಷಿಸಿ</a></td>
                     </tr>
                     </tbody>
